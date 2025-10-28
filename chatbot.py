@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("🗪 GenAI Chatbot")
 
 #Initiate chat history
-if "chat.history" not in st.session_state:
+if "chat_history" not in st.session_state:
     st.session_state.chat_history=[]
 
 #Show chat history
