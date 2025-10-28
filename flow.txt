@@ -1,0 +1,9 @@
+-User enters a query
+
+-Query is saved in chat history
+
+-Chat history is sent to LLM
+
+-LLM gives response which is saved in chat history again
+
+-Response is displayed to user
